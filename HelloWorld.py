@@ -7,6 +7,8 @@ print(10//3, 3//10) # print quotients from divisions
 print(10%3, 3%10) # print remainders from divisions
 
 #%%
+changing things 
+astring= "Brandon Chin"
 astring = "Thank you"
 anum = 3.14159265358979323846
 cnt = 1
